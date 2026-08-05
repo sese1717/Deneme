@@ -10,7 +10,7 @@ sonuc = len(iller) # eleman sayısını sayıp onu verir
 
 print(sonuc)
 
-sonuc = iller + ["Adana","Antalya"]
+sonuc = iller + ["Adana","Antalya"] 
 
 del iller[0]
 print(sonuc)
