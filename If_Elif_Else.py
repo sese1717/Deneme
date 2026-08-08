@@ -18,3 +18,6 @@ elif (70 < karne_notu <= 85):
     print("Taşekkür belgesi")
 else:
     print("Taktir belgesi")
+
+# If'ın içinde If kullanırken unutulmamaı gereken şey bir tanesinin başarılı olması diğerini tetikliyo.
+ 
