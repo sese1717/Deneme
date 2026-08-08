@@ -31,4 +31,4 @@ if(username == "Selim Emir OCAK"):
     else:
         print("Parola hatalı.")
 else:
-    print("Kullanıcı adı ve parola hatalı.")
+    print("Kullanıcı adı hatalı.")
