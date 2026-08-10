@@ -62,7 +62,7 @@ su_sıcaklığı = 0
 while (su_sıcaklığı <=50) :
     if (su_sıcaklığı <=45):
         print(f"Su ısıtılıyor {su_sıcaklığı} C*.")
-    elif (su_sıcaklığı==47):
+    elif (su_sıcaklığı==48):
         break
     else :
         print(f"Su kritik değeri geçti {su_sıcaklığı} C*.")

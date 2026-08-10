@@ -25,7 +25,7 @@ while i < 100:
         continue
     else:
         toplam += i
- print(toplam)
+print(toplam)
 
 
     
