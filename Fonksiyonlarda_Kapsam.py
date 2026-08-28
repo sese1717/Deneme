@@ -8,14 +8,14 @@
 # print(fn1())
 
 
-city = "İstanbul"
+# city = "İstanbul"
 
-def changeCity(new_city):
-    city = new_city
-    print(city)
+# def changeCity(new_city):
+#     city = new_city
+#     print(city)
 
-changeCity("Bursa")
-print(city)
+# changeCity("Bursa")
+# print(city)
 
 city = "İstanbul"
 
