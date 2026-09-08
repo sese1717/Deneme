@@ -1,4 +1,4 @@
-birinci satır
+Yeni satırır
 ikinci satır
 üçüncü satır
 dördüncü satır
